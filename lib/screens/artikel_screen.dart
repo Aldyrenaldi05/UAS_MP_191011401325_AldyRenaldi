@@ -15,7 +15,7 @@ class _ArtikelScreenState extends State<ArtikelScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Aldy Renaldi (191011401325)'),
+        title: const Text('RIAN MAHIZA GIRI (191011401361)'),
       ),
       body: Consumer<ArtikelProvider>(
         builder: (context, artikelProvider, child) {
